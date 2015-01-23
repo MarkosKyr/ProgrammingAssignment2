@@ -1,4 +1,4 @@
-## The aim of thes functions 'makeCacheMatrix' and 'cacheSolve' are to take a matrix, inverse it, and cache it
+## The aim of these functions 'makeCacheMatrix' and 'cacheSolve' are to take a matrix, inverse it, and cache it
 ## This way, if a matrix is very large, we can save up on computational time and resources, rather than re-calculating
 ## the inverse every time.
 
